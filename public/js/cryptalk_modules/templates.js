@@ -3,13 +3,13 @@
 define({
 
 	help: '<pre>                                                                \n' +
-		'Cryptalk, encrypted instant chat.                                      \n' +
+		', моментальный безопасный чат .                                      \n' +
 		'                                                                       \n' +
 		'----------------------------------------------------------------------	\n' +
 		'                                                                       \n' +
 		'Client:                                                    			\n' +
-		'	/key		StrongPassphrase	Sets encryption key                 \n' +
-		'	/nick		NickName		Sets an optional nick                   \n' +
+		'	/key		StrongPassphrase	Установить пароль                 \n' +
+		'	/nick		NickName		Ник                   \n' +
 		'	/mute  					Audio on									\n' +
 		'	/unmute  				Audio off									\n' +
 		'	/clear					Clear on-screen buffer                      \n' +
@@ -110,6 +110,6 @@ define({
 	},
 
 	client: {
-		title: 					'Cryptalk - Offline'
+		title: 					' Offline'
 	}
 });
