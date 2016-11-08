@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 var express = require('express'),
     app = express(),
-    server = require('https').createServer(app),
+    server = require('http').createServer(app),
     io = require('socket.io')(server),
     port = process.env.PORT || 8080;
 
