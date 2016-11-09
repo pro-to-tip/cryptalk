@@ -6,17 +6,6 @@ define({
 
 	motd: '<pre>\n\n' +
 		'<iframe id="w" scrolling="no" width="100%" height="355px" src="https://pro-to-tip.github.io/07/scss/index.html" frameborder="0" allowfullscreen></iframe>\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
-		'\n' +
 		' Управление: введите /help\n' +
 		'----------------------------------------------------------------------' +
 		'</pre>',
